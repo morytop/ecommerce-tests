@@ -1,4 +1,4 @@
-# This file contain concept decisions for GAD automation framework
+# This file contain concept decisions for online shop automation framework
 
 ## Integration of code style tools in framework
 

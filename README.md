@@ -1,8 +1,8 @@
-# Tests for GAD application
+# Tests for Shopify online store
 
-## GAD Application
+## Shopify online store
 
-Repository: https://github.com/jaktestowac/gad-gui-api-demo
+Site: https://testing-expained.myshopify.com
 
 Follow instructions in app README
 
